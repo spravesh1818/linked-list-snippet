@@ -1,0 +1,15 @@
+{
+  "name": "linked-list-typescript",
+  "version": "1.0.0",
+  "description": "Simple linked list implemetation in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "author": "Pravesh Chapagain",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.7.0"
+  }
+}
